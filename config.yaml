@@ -24,10 +24,10 @@ monitors:
     followRedirect: false # should fetch follow redirects, default=false
     linkable: false # allows the title to be a link, default=true
 
-  - id: www-julissarodriguez-com
-    name: julissarodriguez.com
-    description: 'julissarodriguez.com'
-    url: 'https://julissarodriguez.com'
+  - id: www-edgarte-com
+    name: edgarte.com
+    description: 'edgarte.com'
+    url: 'https://edgarte.com'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
